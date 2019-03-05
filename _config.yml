@@ -14,8 +14,8 @@ footer: Smart Matter
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  #- title: twitter
-    #url: https://twitter.com/smartmatter
+  - title: twitter
+    url: https://twitter.com/SmartMatter_io
   - title: github
     url: https://github.com/smart-matter
 
