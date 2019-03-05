@@ -1,6 +1,6 @@
 # Site settings
 title: Smart Matter
-email: info@smartmatter.io
+email: hello@smartmatter.io
 url: https://smartmatter.io
 description: "Financial freedom without borders, it DOES matter!"
 
@@ -14,8 +14,8 @@ footer: Smart Matter
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/smartmatter
+  #- title: twitter
+    #url: https://twitter.com/smartmatter
   - title: github
     url: https://github.com/smart-matter
 
