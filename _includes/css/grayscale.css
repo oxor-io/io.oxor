@@ -311,7 +311,26 @@ ul.banner-social-buttons li {
         margin-bottom: 0;
     }
 }
+.pres {
+    display: table;
+    width: 100%;
+    vertical-align: middle;
+    padding: 70px 0 0;
+    text-align: center;
+    color: #fff;
+    background-color: {{ site.color.primary-dark }};
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 
+.pres .pres-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+	
+	
 footer {
     padding: 50px 0;
 }
