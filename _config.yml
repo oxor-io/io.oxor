@@ -17,7 +17,7 @@ social:
   - title: twitter
     url: https://twitter.com/SmartMatter_io
   - title: github
-    url: https://github.com/smart-matter
+    url: https://github.com/oxor-io
 
 # Build settings
 markdown: kramdown
