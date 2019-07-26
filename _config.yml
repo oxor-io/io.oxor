@@ -1,7 +1,7 @@
 # Site settings
-title: Smart Matter
-email: hello@smartmatter.io
-url: https://smartmatter.io
+title: Oxorio
+email: hello@oxor.io
+url: https://Oxorio.io
 description: "Financial freedom without borders, it DOES matter!"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -10,14 +10,14 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Smart Matter
+footer: Oxorio
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: https://twitter.com/SmartMatter_io
   - title: github
-    url: https://github.com/smart-matter
+    url: https://github.com/oxor-io
 
 # Build settings
 markdown: kramdown
